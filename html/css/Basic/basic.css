@@ -1,0 +1,36 @@
+
+
+/* element selector: */
+div{
+    background-color:lightgrey;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+}
+
+/* class selector: */
+.rk{
+    background-color: aquamarine;
+    font-size: 20px;
+    color:brown;
+    
+}
+
+/* ID Selector: */
+#demo{
+    background-color: lightgreen;
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* universal selector */
+*{
+    text-align: center;
+
+}
